@@ -15,6 +15,14 @@
       "category": "alimentação",
       "price": 50,
       "createdAt": "2022-10-05T19:09:09.186Z"
+    },
+    {
+      "id": 3,
+      "decription": "Ignite-rocketseat",
+      "type": "outcome",
+      "category": "educação",
+      "price": 1980,
+      "createdAt": "2022-10-05T19:09:09.186Z"
     }
   ]
 }
